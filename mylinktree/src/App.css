@@ -1,0 +1,11 @@
+body {
+    background-image: linear-gradient(to bottom, rgb(168, 123, 163), rgb(161, 100, 162))
+}
+
+html {
+    min-height: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
