@@ -26,7 +26,7 @@ function App() {
       <div style={{ "marginBottom": "50px"}}>
         <LinkButton
           title=""
-          name="@Zuri"
+          name="Zuri"
           logo={<FontAwesomeIcon size="2x" icon={faSpaceShuttle}  />}
           link="https://training.zuri.team/"
         />
